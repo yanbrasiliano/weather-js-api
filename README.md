@@ -1,2 +1,2 @@
-# weather-js-api
+# Climate Weather
 A simple weather application which uses an API to bring in the weather data of cities.
