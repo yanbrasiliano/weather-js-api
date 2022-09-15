@@ -1,7 +1,5 @@
-// API KEY - d2726c036041599128eb98b9efbd86d4
-
 // Create .env to insert this datas below.
-const apiKey = "d2726c036041599128eb98b9efbd86d4";
+const apiKey = "//"; // Access url WeatherA API and create your API key.
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 

@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  },
+  "name": "weather-js-api",
+  "description": "A simple weather application which uses an API to bring in the weather data of cities.",
+  "version": "1.0.0",
+  "main": "Weather.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanbrasiliano/weather-js-api.git"
+  },
+  "author": "Yan Penalva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanbrasiliano/weather-js-api/issues"
+  },
+  "homepage": "https://github.com/yanbrasiliano/weather-js-api#readme"
+}
